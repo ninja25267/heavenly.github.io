@@ -273,7 +273,7 @@ data_action = [
     },
     {
         title: "Mark",
-        icon: "targeting",
+        icon: "dead-eye",
         subtitle: "Mark a creature",
         description: "Mark a creature as part of a melee attack",
         reference: "DMG, pg. 271.",
