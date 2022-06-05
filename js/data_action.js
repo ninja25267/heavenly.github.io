@@ -28,7 +28,7 @@ data_action = [
     {
         title: "Versatile Fighting",
         icon: "winged-sword",
-        subtitle: "Make an versatile weapon attack",
+        subtitle: "Make a versatile weapon attack",
         description: "Perform an attack with a versatile weapon",
         reference: "WCX, pg. 87.",
         bullets: [
