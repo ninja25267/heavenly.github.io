@@ -92,7 +92,7 @@ data_condition = [
     },
     {
         title: "Marked",
-        icon: "targeting",
+        icon: "dead-eye",
         subtitle: "You are marked",
         description: "You're engaged in melee combat",
         reference: "DMG, pg. 271.",
