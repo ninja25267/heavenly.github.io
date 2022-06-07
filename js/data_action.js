@@ -236,7 +236,7 @@ data_action = [
     },
     {
         title: "Climb onto a Bigger Creature",
-        icon: "gecko",
+        icon: "mountain-climbing",
         subtitle: "Climb a larger creature",
         description: "Latch onto a larger creature",
         reference: "DMG, pg. 271.",
@@ -260,7 +260,7 @@ data_action = [
     },
     {
         title: "Disarm",
-        icon: "sword-break",
+        icon: "drop-weapon",
         subtitle: "Disarm a creature",
         description: "Force a creature to drop a weapon or item",
         reference: "DMG, pg. 271.",
